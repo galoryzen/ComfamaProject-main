@@ -1,0 +1,1 @@
+From this newly presented graph, we can see that most of the microenterprises that retire from Comfama, also have a lower contribution than the average. While the same cannot be said about staying microenterprises.

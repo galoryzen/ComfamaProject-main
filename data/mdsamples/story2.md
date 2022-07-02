@@ -1,0 +1,1 @@
+We first started plotting the correlation of all our numerical variables against the target, which in this case is the status of the microenterprise. We mapped the status 'Vigente' to 1, and 'Retirado' to 0.

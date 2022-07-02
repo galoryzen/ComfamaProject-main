@@ -1,0 +1,1 @@
+As we can see from the graph, in this dataset we will be dealing with a class imbalance. The amount of microenterprises that retire from Comfama is much smaller than the amount of microenterprises that stay. Through these images and text we will be showing the process that we followed to discover very useful insights for our dataset.
